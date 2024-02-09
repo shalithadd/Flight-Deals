@@ -1,0 +1,131 @@
+{
+    "id": "0f6407c74ccd4cdc97cc74cf_0|0f6407c74ccd4cdc97cc74cf_1",
+    "flyFrom": "LHR",
+    "flyTo": "CPT",
+    "cityFrom": "London",
+    "cityCodeFrom": "LON",
+    "cityTo": "Cape Town",
+    "cityCodeTo": "CPT",
+    "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+    },
+    "countryTo": {
+        "code": "ZA",
+        "name": "South Africa"
+    },
+    "local_departure": "2023-10-31T18:20:00.000Z",
+    "utc_departure": "2023-10-31T18:20:00.000Z",
+    "local_arrival": "2023-11-01T07:55:00.000Z",
+    "utc_arrival": "2023-11-01T05:55:00.000Z",
+    "nightsInDest": 14,
+    "quality": 1172.606367,
+    "distance": 9692.25,
+    "duration": {
+        "departure": 41700,
+        "return": 42300,
+        "total": 84000
+    },
+    "price": 838,
+    "conversion": {
+        "EUR": 961.940227,
+        "GBP": 838
+    },
+    "fare": {
+        "adults": 838,
+        "children": 838,
+        "infants": 838
+    },
+    "bags_price": {
+        "1": 172.185,
+        "2": 396.03
+    },
+    "baglimit": {
+        "hand_height": 36,
+        "hand_length": 56,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 208,
+        "hold_height": 75,
+        "hold_length": 90,
+        "hold_weight": 23,
+        "hold_width": 43,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 2,
+        "personal_item_width": 15
+    },
+    "availability": {
+        "seats": 9
+    },
+    "airlines": [
+        "VS"
+    ],
+    "route": [
+        {
+            "id": "0f6407c74ccd4cdc97cc74cf_0",
+            "combination_id": "0f6407c74ccd4cdc97cc74cf",
+            "flyFrom": "LHR",
+            "flyTo": "CPT",
+            "cityFrom": "London",
+            "cityCodeFrom": "LON",
+            "cityTo": "Cape Town",
+            "cityCodeTo": "CPT",
+            "local_departure": "2023-10-31T18:20:00.000Z",
+            "utc_departure": "2023-10-31T18:20:00.000Z",
+            "local_arrival": "2023-11-01T07:55:00.000Z",
+            "utc_arrival": "2023-11-01T05:55:00.000Z",
+            "airline": "VS",
+            "flight_no": 478,
+            "operating_carrier": "VS",
+            "operating_flight_no": "478",
+            "fare_basis": "OL10COLB",
+            "fare_category": "M",
+            "fare_classes": "T",
+            "fare_family": "",
+            "return": 0,
+            "bags_recheck_required": false,
+            "vi_connection": false,
+            "guarantee": false,
+            "equipment": null,
+            "vehicle_type": "aircraft"
+        },
+        {
+            "id": "0f6407c74ccd4cdc97cc74cf_1",
+            "combination_id": "0f6407c74ccd4cdc97cc74cf",
+            "flyFrom": "CPT",
+            "flyTo": "LHR",
+            "cityFrom": "Cape Town",
+            "cityCodeFrom": "CPT",
+            "cityTo": "London",
+            "cityCodeTo": "LON",
+            "local_departure": "2023-11-15T10:30:00.000Z",
+            "utc_departure": "2023-11-15T08:30:00.000Z",
+            "local_arrival": "2023-11-15T20:15:00.000Z",
+            "utc_arrival": "2023-11-15T20:15:00.000Z",
+            "airline": "VS",
+            "flight_no": 479,
+            "operating_carrier": "VS",
+            "operating_flight_no": "479",
+            "fare_basis": "OL10COLB",
+            "fare_category": "M",
+            "fare_classes": "T",
+            "fare_family": "",
+            "return": 1,
+            "bags_recheck_required": false,
+            "vi_connection": false,
+            "guarantee": false,
+            "equipment": null,
+            "vehicle_type": "aircraft"
+        }
+    ],
+    "booking_token": "G_ns22FrYt0jPRT19d0E_oONKboTGwKz9esjJgJxwtZ3w5W_QOI0enMOV7ca4Gwk9C_k2ukVrDwY4UrrM8ddkNEJluTWHSkB5plZH654lnFy_j1b9mJ26EFEVsLBYMvMMuWhrhe1tS5GwdcWgwsAA7jBldHAQ-SLN4RXU-THUcFbJzkbhle2nMisddULXe0B_3uv-8dHZXA-F30SFbcQWOQ6EniSEnPCCdEMGz2wvPE6yJa1xl5EQQBdPjdV0nbQ-iBT0ejjkcvLVn4gPLDzbYOPMDz0zWFCmHpYcJ9Y3Edg6yj3z8sxS5TX5fd3PxC8LNf8F1xuPlqZC0gPf_5pBBld-5OnBHQac6QWDD1yIauUlZScSZHqroxF_mkx6dEr6VflPXqkugcKefgkANEV04En0_jvCLa-tQelxXjmcvRW8srYjvM4E3GtXxGxNqjNDx6gVHbVKqo5kB2CRq-IBmJ6l--MOnCMsqlXnAx_UxdVc8TTXc1den7z_1C1fGXNWWCPzfPNfHUZKsXPClR-mAw==",
+    "deep_link": "https://www.kiwi.com/deep?affilid=shalithadehigaspitiyageflightsearch&currency=GBP&flightsId=0f6407c74ccd4cdc97cc74cf_0%7C0f6407c74ccd4cdc97cc74cf_1&from=LHR&lang=en&passengers=1&to=CPT&booking_token=G_ns22FrYt0jPRT19d0E_oONKboTGwKz9esjJgJxwtZ3w5W_QOI0enMOV7ca4Gwk9C_k2ukVrDwY4UrrM8ddkNEJluTWHSkB5plZH654lnFy_j1b9mJ26EFEVsLBYMvMMuWhrhe1tS5GwdcWgwsAA7jBldHAQ-SLN4RXU-THUcFbJzkbhle2nMisddULXe0B_3uv-8dHZXA-F30SFbcQWOQ6EniSEnPCCdEMGz2wvPE6yJa1xl5EQQBdPjdV0nbQ-iBT0ejjkcvLVn4gPLDzbYOPMDz0zWFCmHpYcJ9Y3Edg6yj3z8sxS5TX5fd3PxC8LNf8F1xuPlqZC0gPf_5pBBld-5OnBHQac6QWDD1yIauUlZScSZHqroxF_mkx6dEr6VflPXqkugcKefgkANEV04En0_jvCLa-tQelxXjmcvRW8srYjvM4E3GtXxGxNqjNDx6gVHbVKqo5kB2CRq-IBmJ6l--MOnCMsqlXnAx_UxdVc8TTXc1den7z_1C1fGXNWWCPzfPNfHUZKsXPClR-mAw==",
+    "facilitated_booking_available": true,
+    "pnr_count": 1,
+    "has_airport_change": false,
+    "technical_stops": 0,
+    "throw_away_ticketing": false,
+    "hidden_city_ticketing": false,
+    "virtual_interlining": false
+}
